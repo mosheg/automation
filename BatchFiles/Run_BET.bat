@@ -1,0 +1,2 @@
+cd /d C:\BART\
+runBart_WithResources.bat C:\\Views\\BART_view1\\nbu.tests\\QA\\Solution_V8.0\\BET\\Groups\\Group.xls C:\\Views\\BART_view1\\nbu.tests\\QA\\Solution_V8.0\\BET\\Resources\\Resources.xls mosheg mosheg
